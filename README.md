@@ -120,7 +120,8 @@ plt.show()
 # Output Waveform
 ```
 FOR PCM:
-![WhatsApp Image 2026-02-16 at 3 46 20 PM](https://github.com/user-attachments/assets/d191a8cd-77cf-437d-8501-65f8e2af0b53)
+![WhatsApp Image 2026-02-16 at 3 46 20 PM](https://github.com/user-attachments/assets/80a98b3c-86ec-4b2d-ba99-39b6094c7ff8)
+
 FOR DM:
 ![WhatsApp Image 2026-02-16 at 3 46 30 PM](https://github.com/user-attachments/assets/0472a1a2-3b04-458f-8133-3598671cda33)
 
