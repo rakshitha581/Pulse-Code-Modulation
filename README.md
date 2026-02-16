@@ -118,13 +118,11 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
-```
-FOR PCM:
 <img width="1067" height="857" alt="image" src="https://github.com/user-attachments/assets/22afde93-24c4-4204-aba5-d6251a5d1ae6" />  
 
 
-FOR DM:
 <img width="1727" height="857" alt="image" src="https://github.com/user-attachments/assets/451ebcf4-869b-42d8-a152-8399fe05f7d2" />
+
 
 ```
 # Results
