@@ -120,7 +120,7 @@ plt.show()
 # Output Waveform
 ```
 FOR PCM:
-<img width="1067" height="857" alt="image" src="https://github.com/user-attachments/assets/22afde93-24c4-4204-aba5-d6251a5d1ae6" />
+<img width="1067" height="857" alt="image" src="https://github.com/user-attachments/assets/22afde93-24c4-4204-aba5-d6251a5d1ae6" />  
 
 
 FOR DM:
