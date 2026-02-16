@@ -13,7 +13,6 @@ sampling_rate = 5000
 frequency = 50
 duration = 0.1
 quantization_levels = 16
-
 t = np.linspace(0, duration, int(sampling_rate * duration), endpoint=False)
 
 message_signal = np.sin(2 * np.pi * frequency * t)
